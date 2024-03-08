@@ -52,7 +52,7 @@
 ```javascript
 const Arya Shanish = {
     pronouns: "He" | "Him",
-    code: ["C/C++ , Javascript" , "Python"],
+    code: ["C++ , Javascript" , "Python"],
     askMeAbout: ["Web Devlopment", "Tech", "Computer Core Subject"],
     technologies: {
         backEnd: {
@@ -62,9 +62,8 @@ const Arya Shanish = {
             css: [ "Tailwind CSS", "Bootstrap"],
             js: ["React Js" , "Vue3 Js"]
         },
-        databases: ["mongo", "MySql", "firebase(#skills to acquire)"],
+        databases: ["mongo", "MySql", "Firebase"],
         },
-    skills_to_acquire:["Firebase"],
     currentFocus: "Software Devloper",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
