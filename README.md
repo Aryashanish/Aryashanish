@@ -17,7 +17,7 @@
 - 📫 Reach me at 👉 **shanishacharya@gmail.com**
 - 👯 I’m looking to collaborate on **Real-World Projects**
 - **Exploring the endless possibilities of code and creativity.💻**
-- ⚒️I'm Currently Work At Agami Technology - Software Devloper ⚒️
+- ⚒️I'm Currently Work At Agami Technology - Software Developer ⚒️
 - 🖐️🖐️Happy to work with Real World Project 🏁
 <h3 align="left">Connect with me:</h3>
 <p align="left">
