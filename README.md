@@ -18,7 +18,7 @@
 - ➡️ Portfolio Link 👉 **[aryashanish.netlify.app/](https://aryashanish.netlify.app/)**
 - 👯 I’m looking to collaborate on **Real-World Projects**
 - **Exploring the endless possibilities of code and creativity.💻**
-- ⚒️I'm Currently Work At Agami Technology - Software Developer ⚒️
+- ⚒️I'm Currently Work As Software Developer ⚒️
 - 🖐️🖐️Happy to work with Real World Project 🏁
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -53,11 +53,11 @@
 ```javascript
 const Arya Shanish = {
     pronouns: "He" | "Him",
-    code: ["C++ , Javascript" , "Python"],
-    askMeAbout: ["Web Devlopment", "Tech", "Computer Core Subject"],
+    code: ["C++ , Javascript"],
+    askMeAbout: ["Algorithm", "Web Devlopment", "Tech enthusiast solution"],
     technologies: {
         backEnd: {
-            code: ["Node js", "Express Js", "JQuery"],
+            code: ["Node js", "Express Js"],
         },
         frontEnd: {
             css: [ "Tailwind CSS", "Bootstrap"],
@@ -65,7 +65,7 @@ const Arya Shanish = {
         },
         databases: ["mongo", "MySql", "Firebase"],
         },
-    currentFocus: "Software Devloper",
+    currentFocus: "Development ........",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
